@@ -1,0 +1,10 @@
+{
+    "type": "code",
+    "modid": "simplewand",
+    "name": "Simple Wand",
+    "authors": [
+        "DudeBroccoli186"
+    ],
+    "description": "A simple magic wand that shoots fireballs.",
+    "version": "1.0.0"
+}
